@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5b2ecd0ad745c863a87f85bb",
+  "owner": "rtparg",
+  "repo": "page-8210ab26991ed6a6abb3b2b5",
+  "title": "飞毯加速(TanZ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8210ab26991ed6a6abb3b2b5",
+      "a": "飞毯加速(TanZ)",
+      "b": "",
+      "entity": "飞毯加速(TanZ)",
+      "brand": "飞毯加速(TanZ)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "37dd9bc3b5ec371da02a729c5947617249722bd5d2dd34322dcff0dfecd6351e",
+      "content": {
+        "keyword1": "飞毯加速(TanZ)",
+        "keyword2": "",
+        "primary_entity": "飞毯加速(TanZ)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞毯加速(TanZ)提供稳定机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多端客户端下载，欢迎访问官网了解套餐与使用说明。",
+          "AI_DESCRIPTION": "飞毯加速(TanZ)提供稳定机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多端客户端下载，欢迎访问官网了解套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e8f4f8;line-height:1.75;font-size:16px}a{color:#2ee6d6}img,svg{display:none}header{background:#0a1c33;border-bottom:2px solid #165e68;padding:12px 0}header .wrap,footer .wrap{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between}.brand-mark{font-weight:700;color:#ffffff;font-size:1.05rem}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#b7eef0;font-size:0.95rem}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}main{display:block;padding:8px 0 40px}h1{font-size:1.7rem;color:#ffffff;line-height:1.35;margin:0 0 12px}h2{font-size:1.4rem;color:#2ee6d6;margin:0 0 10px}h3{font-size:1.12rem;color:#9eeff0;margin:0 0 8px}p,li{color:#d5e8ee}.lead{font-size:1.05rem;color:#c5e7ea;margin-bottom:10px}.hero{padding:28px 0 10px}.stagger{display:flex;flex-wrap:wrap;gap:18px 24px;align-items:flex-start;margin:22px 0;padding:20px 0;border-top:1px solid #16324a}.stagger.reverse{flex-direction:row-reverse}.panel{flex:1 1 300px;min-width:0;background:#0c2438;border:1px solid #18485a;padding:18px 16px}.muted{color:#9cb8c4;font-size:0.95rem}.plans{display:flex;flex-wrap:wrap;gap:14px;margin-top:12px}.plan{flex:1 1 240px;min-width:0;background:#0c2438;border:1px solid #1a5c66;padding:18px 16px}.plan.featured{border-color:#2ee6d6;background:#0e2c44}.price{font-size:1.35rem;color:#ffffff;font-weight:700;margin:8px 0 4px}.annual{color:#7fd8d4;font-size:0.92rem;margin-bottom:10px}.plan ul,.scene ul,.guide ol{padding-left:1.15em}.plan li,.scene li,.guide li{margin:6px 0}#faq{margin-top:8px;padding:22px 16px;background:#082033;border:2px solid #2ee6d6}#faq h2{font-size:1.55rem}.faq-lead{margin-bottom:12px;color:#c9eef0}details{background:#0c2438;border:1px solid #1a5c66;margin:10px 0;padding:12px 14px}summary{font-weight:700;color:#2ee6d6;font-size:1.02rem}details p{margin-top:8px;color:#d5e8ee}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.chip{border:1px solid #1a6b72;color:#b7eef0;padding:6px 10px;font-size:0.9rem}.ads,.friends,.sitemap{margin:22px 0;padding:16px;background:#0c2438;border:1px solid #18485a}.ads h2,.friends h2,.sitemap h2{margin-bottom:8px}.ads ul,.friends ul,.sitemap ul{padding-left:1.15em}footer{background:#06101c;border-top:1px solid #16324a;padding:18px 0 28px;color:#9cb8c4;font-size:0.92rem}footer p{margin:6px 0}@media (max-width:720px){.stagger,.stagger.reverse{flex-direction:column}h1{font-size:1.48rem}h2{font-size:1.28rem}body{font-size:16px}nav a{font-size:0.9rem}}</style><header><div class=\"wrap\"><span class=\"brand-mark\">飞毯加速(TanZ) 官网</span><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#plans\">套餐</a><a href=\"#nodes\">节点</a><a href=\"#download\">下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"top\"><h1>飞毯加速(TanZ) 官方网站</h1><p class=\"lead\">飞毯加速(TanZ)是面向跨境协作、留学科研与影音娱乐的网络加速服务。本站介绍机场订阅、VPN 加速器用法，以及各平台客户端下载与导入步骤，方便你从官网一次性完成选套餐、取订阅、装客户端。</p><p class=\"muted\">官方身份：本页为飞毯加速(TanZ)信息与下载指引页。请通过页面内锚点获取套餐说明与客户端指引，勿轻信来路不明的“破解版”或代充链接。</p></section><section class=\"stagger\" id=\"intro\"><div class=\"panel\"><h2>品牌简介</h2><p>飞毯加速(TanZ)把分散的线路能力收成一份可导入的机场订阅。你无需逐条填写服务器，只要在客户端粘贴订阅地址，即可同步节点、分流规则与定期更新。服务定位是“稳、清晰、好上手”：办公访问远程资料、观看海外流媒体、降低游戏回程抖动，都可以落在同一套订阅里。</p><p>品牌名中的“飞毯”强调铺开即走的体验，TanZ 则对应多端一致的配置名。无论你使用 Clash 系、Surge 还是系统层 VPN 客户端，订阅字段保持同一来源，减少“这个平台能连、那个平台掉配置”的情况。</p></div><div class=\"panel\"><h3>服务边界与使用原则</h3><p>飞毯加速(TanZ)提供的是加密转发与线路调度，用于改善跨境访问质量。请遵守所在地与目标站点的使用条款，不要把加速器用于未授权扫描、侵扰或绕过付费内容的不当用途。账号仅限套餐约定的设备数量，订阅链接视为密钥，不要公开到群文件或截图。</p><p>流量按自然月或套餐周期结算。高峰时段我们会优先保障旗舰版与团队版的专线队列，基础版走普通线路节点池，延迟表现会随目的地不同而变化。</p></div></section><section class=\"stagger reverse\" id=\"scenes\"><div class=\"panel scene\"><h2>使用场景</h2><h3>远程办公与资料库</h3><ul><li>连接海外代码托管、设计素材站与会议系统，减少握手失败。</li><li>公司分部位于不同地区时，用分流规则让国内站点直连、跨境域名走加速。</li></ul><h3>留学与科研检索</h3><ul><li>期刊数据库、课程平台与网盘同步需要持续会话，适合选择设备数更多的套餐。</li><li>论文下载与大文件回传可搭配旗舰版 IPLC 游戏/传输优化线路，降低丢包。</li></ul></div><div class=\"panel scene\"><h3>流媒体与直播</h3><p>基础版解锁常见公开流媒体库；旗舰版与团队版强调全节点原生解锁，降低“能打开不能播”的地区版权提示。直播弹幕与高码率节目建议避开晚间拥堵的普通池，改走标注流媒体的节点。</p><h3>游戏与实时语音</h3><p>对局类游戏对抖动敏感。旗舰版写明 IPLC 专线游戏加速优化，适合把游戏进程绑定到专线节点，语音软件可走同一出口，避免“人在说话、技能却在排队”。</p></div></section><section class=\"stagger\" id=\"guide\"><div class=\"panel guide\"><h2>操作说明</h2><h3>三步开始</h3><ol><li>在套餐区确认设备数与流量，选择基础版、旗舰版或团队版周期（月付或年付）。</li><li>登录后复制机场订阅链接。该链接只用于受支持的客户端，不要用浏览器直接打开当网页。</li><li>打开客户端的“订阅 / 配置 / Profile”，粘贴链接并更新，然后选一个延迟较低的节点连接。</li></ol><p>首次连接建议先访问一个可公开检测连通性的页面，确认系统代理或 TUN 模式已生效，再打开目标应用。</p></div><div class=\"panel guide\"><h3>分流与设备习惯</h3><p>推荐开启规则分流：国内域名直连，海外域名走飞毯加速(TanZ)节点。这样既能节省套餐流量，也能避免把银行、政务类应用误送出境。</p><p>手机建议使用系统 VPN 配置或客户端的增强模式，避免个别应用绕过代理。电脑端可按浏览器、终端分别调试。若某台设备频繁掉线，优先检查本地时间是否准确、是否有其他 VPN 叠加，而不是反复切换节点。</p></div></section><section id=\"plans\"><h2>套餐与官网订阅</h2><p>以下价格与权益为飞毯加速(TanZ)当前公示方案。年付按 10 个月计费口径标注。选择时先看设备并发，再看流量与线路类型。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（主推）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"stagger reverse\" id=\"nodes\"><div class=\"panel\"><h2>线路与节点组织</h2><p>飞毯加速(TanZ)将节点分成普通池、原生流媒体组和专线组。普通池覆盖常见地区入口，适合网页与轻量同步；原生组侧重流媒体版权地区出口；专线组面向旗舰版与团队版的游戏与大文件场景。</p><p>调度策略按目的地自治域与实时负载轮换，不在页面上公示具体 IP，以免被针对性干扰。客户端看到的是地区别名与协议标签，更新订阅即可获得当日可用列表。</p></div><div class=\"panel\"><h3>性能观察方法</h3><p>真正有用的指标是：TCP 握手是否一次成功、视频起播前缓冲秒数、游戏内往返波动是否可接受。单纯比拼“最大带宽数字”容易误导。建议在你常用的时段测 3 个节点，记下中位延迟，而不是只看瞬时最低值。</p><p>团队版提供 VIP 高带宽节点与定制路由，适合把办公网段和娱乐网段拆开。若公司防火墙只放行特定端口，把需求交给专属客户经理，而不是在公共节点上反复试错。</p></div></section><section class=\"stagger\" id=\"download\"><div class=\"panel\"><h2>客户端下载与官网入口</h2><p>飞毯加速(TanZ)本身提供机场订阅，连接依赖各平台成熟客户端。请到对应应用的官方渠道获取安装包，再用本站订阅导入。本页不托管第三方改包，避免证书与分流规则被替换。</p><h3>桌面</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或支持订阅的 VPN 客户端。导入后开启系统代理或 TUN。Linux 用户可用命令行内核配合订阅转换，注意防火墙放行本地端口。</p></div><div class=\"panel\"><h3>移动端与路由</h3><p>iOS 常用可导入订阅的商店应用；Android 可选支持 Clash / 系统 VPN 的客户端。路由器用户把订阅下发到支持的固件，让家庭设备共享同一出口，此时务必核对套餐设备数，网关通常占用 1 个在线名额。</p><div class=\"chips\"><span class=\"chip\"><a href=\"#guide\">查看导入步骤</a></span><span class=\"chip\"><a href=\"#plans\">选择套餐</a></span><span class=\"chip\"><a href=\"#faq\">下载常见问题</a></span><span class=\"chip\"><a href=\"#top\">回到官网首页</a></span></div><p class=\"muted\">所谓“官网下载”是指：安装包来自客户端开发者，订阅来自飞毯加速(TanZ)。两段来源都核对清楚，才是完整的官方路径。</p></div></section><section id=\"faq\"><h2>常见问题</h2><p class=\"faq-lead\">下面集中回答订阅、客户端下载、套餐与线路问题。每条均可展开，便于对照操作。</p><details><summary>飞毯加速(TanZ)是机场还是 VPN？和普通加速器有何不同？</summary><p>飞毯加速(TanZ)以机场订阅为核心：一份链接同步多节点，再由你的 VPN / 代理客户端完成加密接入。它不是单一服务器的传统 VPN 账号，也不是只能加速某一款游戏的插件。好处是换设备不用重新填服务器，坏处是你必须先装好受支持的客户端。若你只需要浏览器插件级加速，会觉得步骤偏多；若你需要多端一致，订阅模式更省事。</p></details><details><summary>如何从官网完成客户端下载并导入机场订阅？</summary><p>先确认设备系统，安装对应客户端（Clash 系、Surge、系统 VPN 应用等）。打开飞毯加速(TanZ)用户中心复制订阅地址，在客户端选择“新建订阅 / 添加 URL”，粘贴后点更新。成功后节点列表会出现地区名称。电脑端选择系统代理，手机端允许添加 VPN 配置。若列表为空，检查链接是否被即时通讯软件加了空格或把 https 改成了超链接预览。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>一个人两部手机加一台电脑，流量以网页和视频为主，基础版 3 设备 / 100GB 通常够用。需要原生流媒体、晚高峰游戏或工单优先，选旗舰版 5 设备 / 300GB 与 IPLC 优化。工作室、实验室或家庭路由共享出口，看团队版 20 设备 / 1000GB、VIP 节点和定制路由。年付价格已在各套餐中标明，适合确定会长时间使用的人。</p></details><details><summary>流媒体提示不在服务区，或游戏仍然卡顿，怎么办？</summary><p>先更新订阅，切到标注流媒体或游戏的节点，避免用普通网页节点硬看 4K。关闭客户端里可能冲突的“全局”与浏览器自带代理。游戏建议绑定进程或使用 TUN，只把游戏和语音送进专线。若只有某一个节目版权地区极严，需要换同套餐内其他原生节点，而不是反复开关飞行模式。旗舰版与团队版对这类场景的节点储备更完整。</p></details><details><summary>同时在线设备超了会怎样？流量用完能否继续连？</summary><p>超过套餐并发时，新设备会认证失败或把最早的会话踢下线，以实际客户端提示为准。流量用尽后转发会停止或降为不可用，需要等待下一计费周期或按站内规则升级。团队版把设备数做大，就是为了减少“谁占用了名额”的沟通成本。请定期在客户端里删除不用的旧配置，避免路由器和电脑各占一个名额却长期挂机。</p></details><details><summary>节点突然全红或延迟暴涨，是不是官网挂了？</summary><p>先看本地网络：Wi-Fi 是否访客隔离、运营商是否在维护、系统时间是否偏差过大。再更新一次订阅。若只有单个地区异常，换邻近入口即可；若全部失败，查看飞毯加速(TanZ)工单或状态说明。旗舰版含 7x24 优先工单，适合把日志里的客户端版本、系统、失败节点名发给支持，而不是只发一句“连不上”。</p></details><details><summary>在非官方渠道购买的“便宜订阅”能用吗？</summary><p>不能视为飞毯加速(TanZ)官方服务。来路不明的链接可能被植入恶意分流，把账号密码导向钓鱼页，或把你的出口变成他人违法流量的跳板。价格、设备数与本页套餐不一致时尤其要警惕。请只通过官网公布的订阅入口开通，客户端安装包走开发者站点或应用商店。</p></details></section><section class=\"ads\" id=\"ads\"><h2>合作与展示位</h2><p>以下为文字合作位，用于工具评测、合规云服务或设计资源互换，不含弹窗与追踪脚本。</p><ul><li><a href=\"#\">跨境协作文档模板交换（展示位 A）</a></li><li><a href=\"#\">独立开发者网络工具目录（展示位 B）</a></li><li><a href=\"#\">中文界面设计规范共创（展示位 C）</a></li></ul></section><section class=\"friends\" id=\"friends\"><h2>友情链接</h2><ul><li><a href=\"#\">客户端兼容性说明汇编</a></li><li><a href=\"#\">分流规则语法入门</a></li><li><a href=\"#\">公共互联网性能观察笔记</a></li><li><a href=\"#\">无障碍与高对比度网页示例</a></li></ul></section><section class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#top\">首页与品牌标题</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#plans\">套餐订阅</a></li><li><a href=\"#nodes\">线路节点</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#friends\">友情链接</a></li></ul><p class=\"muted\">sitemap 路径：https://www.tanz-official.com/sitemap.xml（与规范 head 中的 canonical 同源）。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div><p>飞毯加速(TanZ) 官方网站</p><p>https://www.tanz-official.com/</p><p>联系与工单入口仅通过用户中心公布的渠道，避免社交账号私信代充。</p></div><p>© 飞毯加速(TanZ) 保留品牌名称与套餐公示信息。页面为静态说明，不收集表单。</p></div></footer>",
+          "hash": "8077c5ea42d48a03f73ad54e59e1ad1730f96f96cd182e3804d189b23949fd82",
+          "seo": {
+            "title": "飞毯加速(TanZ)官方网站 – 机场订阅、VPN加速器与客户端下载",
+            "keywords": "飞毯加速,TanZ,飞毯加速VPN,飞毯加速机场,梯子网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "飞毯加速(TanZ)提供稳定机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速与多端客户端下载，欢迎访问官网了解套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lmwrvit.cn",
+    "host": "p-0579c16121.lmwrvit.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lmwrvit.cn",
+      "url": "https://lmwrvit.cn/",
+      "label": "Exflux",
+      "apex": "lmwrvit.cn",
+      "kind": null,
+      "identity": "wrhtxava/page-bee39fbd0c4bba6e45219401"
+    },
+    {
+      "host": "chargy.cn",
+      "url": "https://chargy.cn/",
+      "label": "飞毯加速(TanZ)",
+      "apex": "chargy.cn",
+      "kind": null,
+      "identity": "wdykarp/page-f6d6ae501263e4405e485cce"
+    },
+    {
+      "host": "cofowhs.cn",
+      "url": "https://cofowhs.cn/",
+      "label": "飞毯加速(TanZ)",
+      "apex": "cofowhs.cn",
+      "kind": null,
+      "identity": "wan9900/page-fc1e9ac77b49756854e5de0f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c89ce97aadf6463751da0c2ba91175026c89d2c7b842a36e8decbb614383c727",
+    "sitemap.xml": "df6d5b325efcedc819e409d03e62649e65edcaa99a8c8d70cf3cbc7c29109596",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "930dc5adbf7c4a7833c94b60e1d7326cba690dac007164be6ce883eae9a5a6ed",
+    "robots.txt": "88bfc20e02234eb9cbe64084da519b05760474b100c533630ab85246a43bf55d",
+    "93b82144ab74b5eae8119d38aa325f86.txt": "d33a25877fc911c7f18ef3695883ee8391d4052a0ab7c13763a584ccaf9b2ca6"
+  },
+  "revision": "63985917d52707668d398bcd01b8d15a41f8b5772632272f77f3127ba64cd5b1"
+}
